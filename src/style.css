@@ -1,0 +1,13 @@
+
+@font-face {
+    font-family: 'normal';
+    src: url('font1.otf') format('otf');
+    font-weight: 600;
+    font-style: normal;
+}
+
+.hello {
+    color: red;
+    font-family: 'normal';
+    background: url('./icon.png')
+}
